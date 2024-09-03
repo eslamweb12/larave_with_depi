@@ -1,0 +1,12 @@
+body{
+    background-color: #ddd;
+}
+form{
+    max-width: 600px;
+    margin: auto;
+}
+table tr td img{
+    height: 40px;
+    width: 40px;
+    object-fit: contain;
+}
